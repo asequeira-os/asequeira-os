@@ -33,9 +33,14 @@ I have used the following technologies to build this product from concept to pro
 A small part of the code (mostly IaC support) is available as open source under this github profile.  
 See ... 
 
+#### 🌱 Improving my statistics, machine learning and data science knowledge
+I am currently enrolled in the University of Colorado Boulder Master of Science in Data Science degree program. Hope to complete it some time :smile: :crossedfingers:
+
+
 📫 How to reach me:  
-myfirstname.mylastname@gmail.com  (please copy from the heading)  
-[LinkedIn](https://www.linkedin.com/in/asequeir)
+- antony.sequeira@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/asequeir)
+
 
 
 
@@ -44,8 +49,6 @@ myfirstname.mylastname@gmail.com  (please copy from the heading)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
