@@ -1,6 +1,7 @@
 # Antony Sequeira - Software Engineer
-I have proven experience in developing products from concept to production.  
-If you are a startup and need to go from zero to production, I can do it.  
+I specialize in turning raw ideas into real, production-ready products.  
+If you're a startup looking to go from zero to launch, I’m the person who can make it happen!
+
 
 ## <img src="assets/Xeduler-icon-maskable-512.png" alt="Xeduler logo" width="20" height="20"> Xeduler
 Xeduler is a personal solo project I’m currently working on.
@@ -51,20 +52,24 @@ Following are some of the products or systems that I have delivered where i was 
   - Languages: Java, C#, C++, TCL, Perl, PL/M86
   - Frameworks and tech stacks: Hive/Hadoop/Scoop, Apache Storm, Kafka, RabbitMQ, Lucene 
 - Cloud experience: GCP, AWS
+### Technologies I use daily
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-## 🌱 Improving my statistics, machine learning, and data science knowledge
+## 🌱 Statistics, machine learning, data science - oh my!
 - I am currently half way through the _University of Colorado Boulder_ MS in _Data Science_ degree program. Hope to complete it some time soon :smile: :crossed_fingers:  
 - My [Coursera](https://www.coursera.org/user/bf369d34b1e6d0d5e7ed9c75db7fedbe) profile
  
 
 📫 How to reach me:  
 I am based in the San Francisco bay area.  
-- antony.sequeira@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/asequeir)
-
-
-
+[![Email Badge](https://img.shields.io/badge/Gmail-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:antony.sequeira+ghopen@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asequeir/)](https://www.linkedin.com/in/asequeir/)
 
 <!--
 **asequeira-os/asequeira-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
