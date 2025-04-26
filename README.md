@@ -54,8 +54,8 @@ Following are some of the products or systems that I have delivered where i was 
 
 
 ## 🌱 Improving my statistics, machine learning, and data science knowledge
-I am currently half way through the _University of Colorado Boulder_ MS in _Data Science_ degree program. Hope to complete it some time soon :smile: :crossed_fingers:
-
+- I am currently half way through the _University of Colorado Boulder_ MS in _Data Science_ degree program. Hope to complete it some time soon :smile: :crossed_fingers:  
+- My [Coursera](https://www.coursera.org/user/bf369d34b1e6d0d5e7ed9c75db7fedbe) profile
  
 
 📫 How to reach me:  
