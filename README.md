@@ -1,6 +1,6 @@
-## Antony Sequeira - Software Engineer
+# _Antony Sequeira - Software Engineer_
 I specialize in turning raw ideas into real, production-ready products.  
-If you're a startup looking to go from zero to launch, I’m the person who can make it happen!
+If you're a startup looking to go from zero to launch, I can make it happen!
 
 
 ## <img src="assets/Xeduler-icon-maskable-512.png" alt="Xeduler logo" width="20" height="20"> Xeduler
@@ -18,20 +18,20 @@ You can try the web app at [Xeduler](https://xeduler.web.app/) or use iOS
 
 I have used the following technologies to build this product from concept to production.  
 
-- Backend production
+- Backend production in Google Cloud
   - Cloud SQL Postgres
   - Cloud Run APIs (Docker, Python, FastApi, Pydantic, SQLAlchemy, Poetry)
   - Cloud Run jobs
-- Frontend
-  - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) (iOS, Android, and Web) for UI
-  - Firebase Cloud Messaging for push notifications
+- Frontends
+  - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) app (iOS, Android, and Web)
+  - Firebase Cloud Messaging for mobile push notifications
   - Hot updates using <a href="https://shorebird.dev/"> <img src="https://docs.shorebird.dev/_astro/shorebird-dark.CxNgJ0Rr.svg" width="75"> </a>
 - Infrastructure as Code (IaC)
   - [Terraform](https://developer.hashicorp.com/terraform) via [CDK-tf](https://developer.hashicorp.com/terraform/cdktf) (via python) to deploy
     - Cloud Run for APIs and jobs
     - Cloud SQL
     - GCP Artifactory images
-    - IaM
+    - GCP IaM
 - Developer experience
   - Docker and docker compose for replicable dev environments
   - Visual Studio code
