@@ -48,10 +48,12 @@ Following are some of the products or systems that I have delivered where i was 
 - ETL and Anomaly detection of GCP logs (Snowflake AI, Python)
 - Microservice for hosting deep learning (tensorflow, python, k8s) vision models
 - Satellite tasking and image downloading service (AWS lambda, Python, DynamoDB)
-- Ask me about more past projects delivered
+
+Ask me about other past projects I have delivered with
   - Languages: Java, C#, C++, TCL, Perl, PL/M86
-  - Frameworks and tech stacks: Hive/Hadoop/Scoop, Apache Storm, Kafka, RabbitMQ, Lucene 
-- Cloud experience: GCP, AWS
+  - Frameworks and tech stacks: Hive/Hadoop/Scoop, Apache Storm, Kafka, RabbitMQ, Lucene   
+in different business domains.
+
 ### Technologies I use daily
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
