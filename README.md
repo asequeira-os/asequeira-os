@@ -1,14 +1,12 @@
-## Antony Sequeira - Software Engineer
+# Antony Sequeira - Software Engineer
 I have proven experience in developing products from concept to production.  
 If you are a startup and need to go from zero to production, I can do it.  
-I am based in the San Francisco bay area.
 
-
-### <img src="assets/Xeduler-icon-maskable-512.png" alt="Xeduler logo" width="20" height="20"> Xeduler
+## <img src="assets/Xeduler-icon-maskable-512.png" alt="Xeduler logo" width="20" height="20"> Xeduler
 Xeduler is a personal solo project I’m currently working on.
 It provides work scheduling automation for on demand workers.  
 The backend is live on Google Cloud and the iOS app is available for users (working on getting the android app published).  
-You can try the web app at [Xeduler](https://xeduler.web.app/) or 
+You can try the web app at [Xeduler](https://xeduler.web.app/) or use iOS
 <a href="https://apps.apple.com/us/app/xeduler/id6654929192?itscg=30200&itsct=apps_box_badge&mttnsubad=6654929192"
     style="display: inline-block;">
     <img
@@ -21,9 +19,10 @@ I have used the following technologies to build this product from concept to pro
 
 - Backend production
   - Cloud SQL Postgres
-  - Application APIs (Python, FastApi, Pydantic, SQLAlchemy, Poetry)
+  - Cloud Run APIs (Docker, Python, FastApi, Pydantic, SQLAlchemy, Poetry)
+  - Cloud Run jobs
 - Frontend
-  - Flutter (iOS, Web, Android) for UI
+  - Flutter (iOS, Android, and Web) for UI
   - Firebase Cloud Messaging for push notifications
   - Hot updates using [shorebird](https://shorebird.dev/)
 - Infrastructure as Code (IaC)
@@ -41,12 +40,26 @@ A small part of the code (mostly IaC support) is available as open source under 
  - [aas-cdktf](https://github.com/asequeira-os/aas-cdktf)
  - [aas-ops-tools](https://github.com/asequeira-os/aas-ops-tools)
 
+## Other notable projects
+Following are some of the products or systems that I have delivered where i was either the sole or the main contributor.
 
-#### 🌱 Improving my statistics, machine learning, and data science knowledge
+- Custom rule based PII redaction for multiple document types and images (AWS Lambda, Python, Google DLP, AWS Textract)
+- ETL and Anomaly detection of GCP logs (Snowflake AI, Python)
+- Microservice for hosting deep learning (tensorflow, python, k8s) vision models
+- Satellite tasking and image downloading service (AWS lambda, Python, DynamoDB)
+- Ask me about more past projects delivered
+  - Languages: Java, C#, C++, TCL, Perl, PL/M86
+  - Frameworks and tech stacks: Hive/Hadoop/Scoop, Apache Storm, Kafka, RabbitMQ, Lucene 
+- Cloud experience: GCP, AWS
+
+
+## 🌱 Improving my statistics, machine learning, and data science knowledge
 I am currently half way through the _University of Colorado Boulder_ MS in _Data Science_ degree program. Hope to complete it some time soon :smile: :crossed_fingers:
 
+ 
 
 📫 How to reach me:  
+I am based in the San Francisco bay area.  
 - antony.sequeira@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/asequeir)
 
@@ -55,13 +68,4 @@ I am currently half way through the _University of Colorado Boulder_ MS in _Data
 
 <!--
 **asequeira-os/asequeira-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
