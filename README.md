@@ -1,4 +1,4 @@
-# Antony Sequeira - Software Engineer
+## Antony Sequeira - Software Engineer
 I specialize in turning raw ideas into real, production-ready products.  
 If you're a startup looking to go from zero to launch, I’m the person who can make it happen!
 
@@ -23,11 +23,11 @@ I have used the following technologies to build this product from concept to pro
   - Cloud Run APIs (Docker, Python, FastApi, Pydantic, SQLAlchemy, Poetry)
   - Cloud Run jobs
 - Frontend
-  - Flutter (iOS, Android, and Web) for UI
+  - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) (iOS, Android, and Web) for UI
   - Firebase Cloud Messaging for push notifications
-  - Hot updates using [shorebird](https://shorebird.dev/)
+  - Hot updates using <a href="https://shorebird.dev/"> <img src="https://docs.shorebird.dev/_astro/shorebird-dark.CxNgJ0Rr.svg" width="75"> </a>
 - Infrastructure as Code (IaC)
-  - Terraform via CDK-tf (via python) to deploy
+  - [Terraform](https://developer.hashicorp.com/terraform) via [CDK-tf](https://developer.hashicorp.com/terraform/cdktf) (via python) to deploy
     - Cloud Run for APIs and jobs
     - Cloud SQL
     - GCP Artifactory images
