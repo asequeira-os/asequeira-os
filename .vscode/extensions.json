@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"bierner.markdown-preview-github-styles",
+		"bierner.github-markdown-preview",
+		"streetsidesoftware.code-spell-checker",
+	],
+	"unwantedRecommendations": [
+		
+	]
+}
