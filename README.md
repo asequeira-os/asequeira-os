@@ -6,15 +6,16 @@ If you're a startup looking to go from zero to launch, I can make it happen!
 ## <img src="assets/Xeduler-icon-maskable-512.png" alt="Xeduler logo" width="20" height="20"> Xeduler
 Xeduler is a personal solo project I’m currently working on.
 It provides work scheduling automation for on demand workers.  
-The backend is live on Google Cloud and the iOS app is available for users (working on getting the android app published).  
-You can try the web app at [Xeduler](https://xeduler.web.app/) or use iOS
+The backend is live on Google Cloud and the iOS, Android, and web apps are available.  
+You can try the web app at [Xeduler](https://xeduler.web.app/), or use iOS
 <a href="https://apps.apple.com/us/app/xeduler/id6654929192?itscg=30200&itsct=apps_box_badge&mttnsubad=6654929192"
     style="display: inline-block;">
     <img
       src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1726704000"
       alt="Download on the App Store"
       style="width: 123px; height: 41px; vertical-align: middle; object-fit: contain;" />
-  </a>  
+  </a>
+, or use <a href="https://play.google.com/store/apps/details?id=com.amdlsoft.xedui.xeduler">Android</a>
 
 I have used the following technologies to build this product from concept to production.  
 
