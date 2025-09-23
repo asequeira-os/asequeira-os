@@ -15,7 +15,8 @@ You can try the web app at [Xeduler](https://xeduler.web.app/), or use iOS
       alt="Download on the App Store"
       style="width: 123px; height: 41px; vertical-align: middle; object-fit: contain;" />
   </a>
-, or use <a href="https://play.google.com/store/apps/details?id=com.amdlsoft.xedui.xeduler">Android</a>
+, or use <a href="https://play.google.com/store/apps/details?id=com.amdlsoft.xedui.xeduler">Android</a> (<a href="https://www.xeduler.com/support">support</a>)
+
 
 I have used the following technologies to build this product from concept to production.  
 
