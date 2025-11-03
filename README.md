@@ -1,13 +1,13 @@
 # _Antony Sequeira - Software Engineer_
-I specialize in turning raw ideas into real, production-ready products.  
-If you're a startup looking to go from zero to launch, I can make it happen!
+I specialize in turning raw ideas into production-ready systems.  
+If you're a startup looking to go from zero to launch, I can make it happen!  
+I am a generalist with proven expertise in backend systems development including APIs and data engineering.
 
 
 ## <img src="assets/Xeduler-icon-maskable-512.png" alt="Xeduler logo" width="20" height="20"> Xeduler
-Xeduler is a personal solo project I’m currently working on.
-It provides work scheduling automation for on demand workers.  
-The backend is live on Google Cloud and the iOS, Android, and web apps are available.  
-You can try the web app at [Xeduler](https://xeduler.web.app/), or use iOS
+Xeduler provides work scheduling automation for on demand workers.  
+
+Use iOS
 <a href="https://apps.apple.com/us/app/xeduler/id6654929192?itscg=30200&itsct=apps_box_badge&mttnsubad=6654929192"
     style="display: inline-block;">
     <img
@@ -15,10 +15,12 @@ You can try the web app at [Xeduler](https://xeduler.web.app/), or use iOS
       alt="Download on the App Store"
       style="width: 123px; height: 41px; vertical-align: middle; object-fit: contain;" />
   </a>
-, or use <a href="https://play.google.com/store/apps/details?id=com.amdlsoft.xedui.xeduler">Android</a> (<a href="https://www.xeduler.com/support">support</a>)
+, or <a href="https://play.google.com/store/apps/details?id=com.amdlsoft.xedui.xeduler">Android</a> apps.
+You can also try the web app at [Xeduler](https://xeduler.web.app/).
+See <a href="https://www.xeduler.com/support">support</a> videos to get a quick overview of the product functionality.
 
-
-I have used the following technologies to build this product from concept to production.  
+This is a solo project and 
+I have used the following technologies to build this product end-to-end from concept to production.  
 
 - Backend production in Google Cloud
   - Cloud SQL Postgres
@@ -60,21 +62,25 @@ in different business domains.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
 
-## 🌱 Statistics, machine learning, data science - oh my!
+## 🌱 Statistics, machine learning, and data science
 - I am currently half way through the _University of Colorado Boulder_ MS in _Data Science_ degree program. Hope to complete it some time soon :smile: :crossed_fingers:  
 - My [Coursera](https://www.coursera.org/user/bf369d34b1e6d0d5e7ed9c75db7fedbe) profile
  
 
-📫 How to reach me:  
-I am based in the San Francisco bay area.  
+📫 Contact:  
 [![Email Badge](https://img.shields.io/badge/Gmail-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:antony.sequeira+ghopen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asequeir/)](https://www.linkedin.com/in/asequeir/)
 
+I am based in the San Francisco bay area.  
 <!--
 **asequeira-os/asequeira-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
