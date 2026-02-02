@@ -26,7 +26,7 @@ I have used the following technologies to build this product end-to-end from con
   - Cloud SQL Postgres
   - Cloud Run APIs (Docker, Python, FastApi, Pydantic, SQLAlchemy, Poetry)
   - Cloud Run jobs
-- Frontends
+- [Frontend](./xeduler_flutter.md)
   - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) app (iOS, Android, and Web)
   - Firebase Cloud Messaging for mobile push notifications
   - Hot updates using <a href="https://shorebird.dev/"> <img src="https://docs.shorebird.dev/_astro/shorebird-dark.CxNgJ0Rr.svg" width="75"> </a>
@@ -41,9 +41,9 @@ I have used the following technologies to build this product end-to-end from con
   - Visual Studio code
   - github actions for CI/CD
 
-A small part of the code (mostly IaC support) is available as open source under this github profile.  
+A small part of the code (mostly IaC support) is available as open source.  
  - [aas-cdktf](https://github.com/asequeira-os/aas-cdktf)
- - [aas-ops-tools](https://github.com/asequeira-os/aas-ops-tools)
+
 
 ## Other notable projects
 Following are some of the products or systems that I have delivered where i was either the sole or the main contributor.
@@ -54,7 +54,7 @@ Following are some of the products or systems that I have delivered where i was 
 - Satellite tasking and image downloading service (AWS lambda, Python, DynamoDB)
 
 Ask me about other past projects I have delivered with
-  - Languages: Java, C#, C++, TCL, Perl, PL/M86
+  - Languages: Java, C#, C++, C, TCL, Perl, PL/M86
   - Frameworks and tech stacks: Hive/Hadoop/Scoop, Apache Storm, Kafka, RabbitMQ, Lucene   
 in different business domains.
 
