@@ -5,9 +5,9 @@ I am a generalist with proven expertise in backend systems development including
 
 
 ## <img src="assets/Xeduler-icon-maskable-512.png" alt="Xeduler logo" width="20" height="20"> Xeduler
-Xeduler provides work scheduling automation for on demand workers.  
+Xeduler provides work scheduling automation for on demand workers.  It's currently in use at a _Skilled Nursing Facility_ for scheduling therapists.
 
-Use iOS
+Xeduler is available through iOS
 <a href="https://apps.apple.com/us/app/xeduler/id6654929192?itscg=30200&itsct=apps_box_badge&mttnsubad=6654929192"
     style="display: inline-block;">
     <img
@@ -15,21 +15,20 @@ Use iOS
       alt="Download on the App Store"
       style="width: 123px; height: 41px; vertical-align: middle; object-fit: contain;" />
   </a>
-, or <a href="https://play.google.com/store/apps/details?id=com.amdlsoft.xedui.xeduler">Android</a> apps.
+, and <a href="https://play.google.com/store/apps/details?id=com.amdlsoft.xedui.xeduler">Android</a> apps.
 You can also try the web app at [Xeduler](https://xeduler.web.app/).
 See <a href="https://www.xeduler.com/support">support</a> videos to get a quick overview of the product functionality.
 
-This is a solo project and 
-I have used the following technologies to build this product end-to-end from concept to production.  
+I am the founder/engineer. I have used the following technologies to build this product end-to-end from concept to production.  
 
 - Backend production in Google Cloud
   - Cloud SQL Postgres
-  - Cloud Run APIs (Docker, Python, FastApi, Pydantic, SQLAlchemy, Poetry)
-  - Cloud Run jobs
+  - Cloud Run Service APIs and jobs (Docker, Python, FastApi, Pydantic, SQLAlchemy, Poetry)
+  - Auth service (Custom Keycloak via Cloud Run)
 - [Frontend](./xeduler_flutter.md)
   - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) app (iOS, Android, and Web)
   - Firebase Cloud Messaging for mobile push notifications
-  - Hot updates using <a href="https://shorebird.dev/"> <img src="https://docs.shorebird.dev/_astro/shorebird-dark.CxNgJ0Rr.svg" width="75"> </a>
+  - Hot mobile app updates using <a href="https://shorebird.dev/">Shorebird</a>
 - Infrastructure as Code (IaC)
   - [Terraform](https://developer.hashicorp.com/terraform) via [CDK-tf](https://developer.hashicorp.com/terraform/cdktf) (via python) to deploy
     - Cloud Run for APIs and jobs
