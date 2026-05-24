@@ -79,7 +79,7 @@ in different business domains.
 [![Email Badge](https://img.shields.io/badge/Gmail-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:antony.sequeira+ghopen@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asequeir/)](https://www.linkedin.com/in/asequeir/)
 
-I am based in the San Francisco bay area.  
+I am based in the San Francisco bay area.  Full [resume](antony-sequeira-resume.pdf).
 <!--
 **asequeira-os/asequeira-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
